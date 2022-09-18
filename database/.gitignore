@@ -1,1 +1,3 @@
-*.sqlite*
+# Não é recomendado fazer o commit de base de dados.
+# Estou enviado para o respositório para fins didáticos.
+#*.sqlite*

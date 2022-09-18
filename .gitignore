@@ -4,7 +4,9 @@
 /public/storage
 /storage/*.key
 /vendor
-.env
+# Não é recomendado fazer o commit do arquivo .env de configurações.
+# Estou enviado para o respositório para fins didáticos.
+#.env
 .env.backup
 .phpunit.result.cache
 Homestead.json
